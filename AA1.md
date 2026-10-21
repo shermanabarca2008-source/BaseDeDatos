@@ -13,7 +13,7 @@
 
 ---
 
-## [📖 Ejemplo 1: Sistema de Biblioteca](Ejmplo1.md)
+## [📖 Ejemplo 1: Sistema de Biblioteca](Ejemplo1.md)
 
 ---
 
