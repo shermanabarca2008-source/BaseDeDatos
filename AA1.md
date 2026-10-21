@@ -17,7 +17,7 @@
 
 ---
 
-## [🍽️ Ejemplo 2: Pedidos de Restaurante](Ejemplo2.md)
+## [🍽️ Ejemplo 2: Pedidos de Restaurante](EJemplo2.md)
 
 ---
 
@@ -25,7 +25,7 @@
 
 ---
 
-## [✈️ Ejemplo 4: Sistema de Aerolínea](Ejemplo4.md)
+## [✈️ Ejemplo 4: Sistema de Aerolínea](EJemplo4.md)
 
 ---
 
@@ -33,11 +33,11 @@
 
 ## [🎵 Ejercicio 5: Empresa Discográfica](Ejemplo5.md)
 
-## [🖥️ Ejercicio 6: Tienda Informática](Ejemplo6.md)
+## [🖥️ Ejercicio 6: Tienda Informática](EJemplo6.md)
 
 ## [💿 Ejercicio 7: Discos Musicales](Ejemplo7.md)
 
-## [🚚 Ejercicio 8: Camiones](Ejemplo8.md)
+## [🚚 Ejercicio 8: Camiones](EJemplo8.md)
 
 ## [🐾 Ejercicio 9: Veterinaria](Ejemplo9.md)
 
